@@ -30,8 +30,6 @@ Repository Structure
 
 Each portfolio activity is organised in its own folder, containing the relevant documentation, scripts and available supporting evidence.
 
-Please refer to the individual portfolio README files for further explanations, prerequisites and execution instructions.
-
 Acknowledgement
 
 This portfolio was prepared for the MIT 8103 Advanced Database Systems assessment. 
